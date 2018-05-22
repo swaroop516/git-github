@@ -1,0 +1,12 @@
+# Include Files
+!/.gitignore
+/README.md
+
+# Include Directories
+
+#
+!/Level1/*
+!/Level1/Level2/*
+/Level1/Level2/Level21.txt
+!/Level1/Level2/Level3_1/*
+/Level1/Level2/Level3_2/*
